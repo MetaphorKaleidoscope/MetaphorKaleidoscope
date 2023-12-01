@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Maria Vazquez
 
 <div align="center">
-  <img src ="./card.png" height="425px" />
+  <img src ="./card.png" width="1000px" />
   
 </div>
 
