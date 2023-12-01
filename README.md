@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Maria Vazquez
 
 <!--
-**MetaphorKaleidoscope/MetaphorKaleidoscope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MetaphorKaleidoscope/MetaphorKaleidoscope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=25029460900)
 
