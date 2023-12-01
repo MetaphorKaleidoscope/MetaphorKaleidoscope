@@ -19,10 +19,10 @@
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 
-## Encuentrame:
+## Science profile:
 
 [![Scopus](https://img.shields.io/badge/Scopus-1DA1F2?style=for-the-badge&logo=scopus&logoColor=white&labelColor=101010)](https://www.scopus.com/authid/detail.uri?authorId=25029460900)
-[![Researchgate](https://img.shields.io/badge/researchgate-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Maria-Vazquez-Ojeda)
+[![Researchgate](https://img.shields.io/badge/researchgate-E4405F?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Maria-Vazquez-Ojeda)
 [![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
