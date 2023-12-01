@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Maria Vazquez
 
-  <img src ="./card.png" width="1900px" />
+  <img src ="./card.png"  />
 
 ## 🛠️ Technologies and Tools I use:
 
