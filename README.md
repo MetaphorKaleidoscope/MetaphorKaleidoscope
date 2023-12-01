@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Maria Vazquez
 
-  <img src ="./card.png"  />
+![https://github.com/mouredev](https://raw.githubusercontent.com/MetaphorKaleidoscope/MetaphorKaleidoscope/main/card.png)
 
 ## 🛠️ Technologies and Tools I use:
 
