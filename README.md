@@ -1,9 +1,6 @@
 ### Hello 👋 I'm Maria Vazquez
 
-<div align="center">
   <img src ="./card.png" width="1000px" />
-  
-</div>
 
 ## 🛠️ Technologies and Tools I use:
 
