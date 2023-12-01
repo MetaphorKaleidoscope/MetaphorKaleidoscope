@@ -13,7 +13,7 @@
 </p>
 
 [![Matlab](https://img.shields.io/badge/Matlab-004b87?style=for-the-badge&logo=Matlab&logoColor=white&labelColor=101010)]()
-[![FORTRAN](https://img.shields.io/badge/Java-F8F7F3?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
+[![FORTRAN](https://img.shields.io/badge/Java-4628DD?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
