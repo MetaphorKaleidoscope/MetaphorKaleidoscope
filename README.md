@@ -15,7 +15,7 @@
 ## Used to work with:
 
 [![Matlab](https://img.shields.io/badge/Matlab-004b87?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=101010)]()
-[![VBA](https://img.shields.io/badge/VBA-F7DF1E?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=101010)]()
+[![VBA](https://img.shields.io/badge/VBA-F7DF1E?style=for-the-badge&logo=Microsoft&logoColor=autoe&logoColor=white&labelColor=101010)]()
 [![FORTRAN](https://img.shields.io/badge/Fortran-4628DD?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
 </br>
 
