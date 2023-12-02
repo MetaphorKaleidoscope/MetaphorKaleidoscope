@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Maria Vazquez
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/MetaphorKaleidoscope/MetaphorKaleidoscope/main/card.png)
+![https://github.com/MetaphorKaleidoscope](https://raw.githubusercontent.com/MetaphorKaleidoscope/MetaphorKaleidoscope/main/card.png)
 
 ## 🛠️ Skills:
 <p>
