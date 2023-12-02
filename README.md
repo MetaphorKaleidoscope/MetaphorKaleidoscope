@@ -12,9 +12,9 @@
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30px"/>
 </p>
 
-[![Matlab](https://img.shields.io/badge/Matlab-004b87?style=for-the-badge&logo=Matlab&logoColor=white&labelColor=101010)]()
+[![Matlab](https://img.shields.io/badge/Matlab-004b87?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=101010)]()
 [![FORTRAN](https://img.shields.io/badge/Fortran-4628DD?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
-[![VBA](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=vba&logoColor=white&labelColor=101010)]()
+[![VBA](https://img.shields.io/badge/VBA-F7DF1E?style=for-the-badge&logo=vba&logoColor=white&labelColor=101010)]()
 </br>
 
 ## Science profile:
